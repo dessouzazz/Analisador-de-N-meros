@@ -1,1 +1,1 @@
-[Analisador de Números](https://dessouzazz.github.io/analisador-de-numeros/modelo.html)
+[Analisador de Números](https://dessouzazz.github.io/Analisador-De-Numeros/modelo.html)
